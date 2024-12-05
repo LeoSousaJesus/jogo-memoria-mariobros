@@ -22,21 +22,20 @@ Certifique-se de ter os seguintes itens instalados em sua máquina antes de come
 
 ### 📂 Estrutura do Projeto
 
-O projeto terá os seguintes arquivos:
-
-**`📦 mario-memory-game`**
-**`├── index.html      # Arquivo HTML principal`**
-**`├── style.css       # Arquivo de estilos`**
-**`├── script.js       # Lógica do jogo`**
-**`└── assets/         # Pasta para imagens e outros recursos`**
-**`    ├── mario.png`**
-**`    ├── luigi.png`**
-**`    ├── peach.png`**
-**`    ├── bowser.png`**
-**`    ├── goomba.png`**
-**`    └── toad.png`**
-**`    ├── yoshi.png`**
-**`    └── koopa.png`**
+| Arquivo/Pasta      | Descrição                      |
+|---------------------|--------------------------------|
+| `index.html`        | Arquivo HTML principal        |
+| `style.css`         | Arquivo de estilos            |
+| `script.js`         | Lógica do jogo                |
+| `assets/`           | Pasta para imagens e recursos |
+| `assets/mario.png`  | Imagem do Mario               |
+| `assets/luigi.png`  | Imagem do Luigi               |
+| `assets/peach.png`  | Imagem da Peach               |
+| `assets/bowser.png` | Imagem do Bowser              |
+| `assets/goomba.png` | Imagem do Goomba              |
+| `assets/toad.png`   | Imagem do Toad                |
+| `assets/yoshi.png`  | Imagem do Yoshi               |
+| `assets/koopa.png`  | Imagem do Koopa               |
 
 
 ### 🚀 Como Configurar e Executar
